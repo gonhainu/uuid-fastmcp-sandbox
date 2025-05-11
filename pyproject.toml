@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "fastmcp>=2.3.3",
+    "uuid6>=2024.7.10",
 ]
 
 [dependency-groups]
